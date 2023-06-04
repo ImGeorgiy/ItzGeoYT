@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzgeoyt&label=Profile%20views&color=0e75b6&style=flat" alt="itzgeoyt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/oceanichost" target="blank"><img src="https://img.shields.io/twitter/follow/oceanichost?logo=twitter&style=for-the-badge" alt="oceanichost" /></a> </p>
+<p align="left"> <a href="https://twitter.com/geoovm" target="blank"><img src="https://img.shields.io/twitter/follow/oceanichost?logo=twitter&style=for-the-badge" alt="geo-vm" /></a> </p>
 
-- 🔭 I’m currently working on [OceanicHost](https://oceanichost.pw)
+- 🔭 I’m currently working on [Geo-VM](https://geo-vm.net)
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 Email **geo@oceanichost.pw**
+- 📫 Email **geo@itzgeo.xyz**
 
 - ⚡ Fun fact **I'm pissed off on smh**
 
