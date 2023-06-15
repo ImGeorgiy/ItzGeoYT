@@ -26,3 +26,5 @@
 <h1 align="center">🪄 Statistics</h1>
 <h1 align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzGeoYT"></h1>
 <h1 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzGeoYT"></h1>
+
+<h1 align="center">🔗 Links & Social Media</h1>
