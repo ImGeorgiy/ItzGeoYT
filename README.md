@@ -23,6 +23,6 @@
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </br>
 
-<h1 align="center">🪄 Stadicticts</h1>
+<h1 align="center">🪄 Statistics</h1>
 <h1 align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzGeoYT"></h1>
 <h1 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzGeoYT"></h1>
