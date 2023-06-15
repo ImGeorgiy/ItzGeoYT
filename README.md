@@ -21,3 +21,7 @@
 <img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Debian 11" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+<h1 align="center">🪄 Stadicticts</h1>
+<h1 align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzGeoYT"></h1>
+<h1 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzGeoYT"></h1>
