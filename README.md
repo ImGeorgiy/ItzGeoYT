@@ -28,3 +28,6 @@
 <h1 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzGeoYT"></h1>
 
 <h1 align="center">🔗 Links & Social Media</h1>
+- Email: `geo@geo-vm.net`
+- Discord: `itzgeo`
+- Telegram: `@itzgeoxd`
