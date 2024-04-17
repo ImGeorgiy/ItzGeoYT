@@ -24,6 +24,6 @@
 </br>
 
 <h1 align="center">🔗 Links & Social Media</h1>
-# Email: geo@geo-vm.net
-# Discord: itzgeo
-# Telegram: @itzgeoxd
+<p>Email: <a href="mailto:geo@geo-vm.net">geo@geo-vm.net</p>
+<p>Discord: itzgeo</p>
+<p>Telegram: @itzgeoxd</p>
