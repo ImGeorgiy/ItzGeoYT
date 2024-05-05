@@ -6,7 +6,9 @@
   <img src="https://lanyard.cnrad.dev/api/743089935317467237">
 </h1>
 
-# 💻 Languages i use/know
+<h1 align="center">
+  💻 Languages i use/know
+</h1>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -16,7 +18,10 @@
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </br>
 
-# 🔗 Links & Social Media
+<h1 align="center">
+  🔗 Links & Social Media
+</h1>
+
 <p>Email: <a href="mailto:geo@geo-vm.net">geo@geo-vm.net</p>
 <p>Discord: itzgeo</p>
 <p>Telegram: <a href="https://t.me/itzgeoxd">@itzgeoxd</p>
