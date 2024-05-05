@@ -3,7 +3,7 @@
 </h1>
 <h1 align="center"><img src="https://lanyard.cnrad.dev/api/743089935317467237"></h1>
 
-# 💻 Languages i know
+# 💻 Languages i use/know
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
